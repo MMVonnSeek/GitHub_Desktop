@@ -1,6 +1,6 @@
 # **Criando seu primeiro repositório usando o GitHub Desktop**
 
-> ## Aprenda como configurar, autenticar e configurar o GitHub Desktop para Windows e permitir que você contribua em projetos diretamente da sua máquina.
+> ## Aprenda como configurar, autenticar o GitHub Desktop para Windows e permitir que você contribua em projetos diretamente da sua máquina.
 
 ## Introdução
 O GitHub Desktop é um aplicativo gratuito e de código aberto que ajuda você a trabalhar com código hospedado no GitHub ou em outros serviços de hospedagem Git. Com o GitHub Desktop, você pode executar comandos do Git, como fazer commits e push de alterações, em uma interface gráfica do usuário, em vez de usar a linha de comando. Para mais informações, consulte Sobre o GitHub Desktop .
